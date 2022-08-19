@@ -16,7 +16,7 @@ Market infrastructure to short NFTs. By introducing an infrastructure that creat
 ![User-Flow-pitch-deck|689x349](User-Flow-pitch-deck.PNG)
 
 ## Progress
-A functional POC prototype exists with the timeline of a testnet launch by the end of August and a mainnet launch by EOY.
+A functional POC prototype exists with the timeline of a testnet launch by the end of September and a mainnet launch by EOY.
 
 After numerous feedback from the POC demo, it has revealed a number of potential improvements and feature requests such as:
 - **Automated Selling of NFT on the Open Market**: Instead of putting the responsibility of selling the NFT on the open market on the Borrower, the Dyve platform would automate that task and transfer the amount sold to the Borrower
